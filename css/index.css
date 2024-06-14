@@ -1,0 +1,23 @@
+#about-us {
+  border-width: 2px;
+  margin: 5px;
+  width: 450px;
+  padding: 25px;
+  border-style: solid;
+  border-radius: 20px;
+  margin-left: 75px;
+}
+
+#contact-us {
+  border-width: 2px;
+  margin: 5px;
+  width: 450px;
+  padding: 25px;
+  border-style: solid;
+  border-radius: 20px;
+  margin-left: 75px;
+}
+
+#welcome-text {
+  background-color: rgba(211, 211, 211, 0);
+}/*# sourceMappingURL=index.css.map */
